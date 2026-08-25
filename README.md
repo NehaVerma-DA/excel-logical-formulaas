@@ -2,7 +2,6 @@
 this repository contains examples of Excel logical functions like IF, AND, OR, and nested logical formulas.
 # Excel Logical Functions Project (HR & Sales Data Analysis)
 <img width="1844" height="570" alt="Conditional-upload-field" src="https://github.com/user-attachments/assets/39e05ff3-8f4f-453e-a056-fcc0d0fc710c" />
-![Uploading Conditional-upload-file.png…]()
 
 This repository contains an Excel-based data analysis project that demonstrates the practical application of logical functions (IF, AND, OR) and their combinations to solve real-world HR and Sales business problems.
 
