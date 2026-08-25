@@ -1,4 +1,4 @@
-# excel-logical-formulaas
+# excel-logical-formulas
 this repository contains examples of Excel logical functions like IF, AND, OR, and nested logical formulas.
 # Excel Logical Functions Project (HR & Sales Data Analysis)
 <img width="1844" height="570" alt="Conditional-upload-field" src="https://github.com/user-attachments/assets/39e05ff3-8f4f-453e-a056-fcc0d0fc710c" />
